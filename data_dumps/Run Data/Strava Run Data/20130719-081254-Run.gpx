@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="strava.com iPhone" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+ <metadata>
+  <time>2013-07-19T08:12:54Z</time>
+ </metadata>
+ <trk>
+  <name>Night Run</name>
+  <trkseg>
+   <trkpt lat="37.7724850" lon="-122.3969400">
+    <ele>3.3</ele>
+    <time>2013-07-19T08:12:54Z</time>
+   </trkpt>
+   <trkpt lat="37.7725220" lon="-122.3969610">
+    <ele>3.3</ele>
+    <time>2013-07-19T08:12:55Z</time>
+   </trkpt>
+   <trkpt lat="37.7726390" lon="-122.3970250">
+    <ele>3.2</ele>
+    <time>2013-07-19T08:12:58Z</time>
+   </trkpt>
+   <trkpt lat="37.7726120" lon="-122.3970680">
+    <ele>3.2</ele>
+    <time>2013-07-19T08:13:01Z</time>
+   </trkpt>
+   <trkpt lat="37.7725830" lon="-122.3970670">
+    <ele>3.2</ele>
+    <time>2013-07-19T08:13:02Z</time>
+   </trkpt>
+   <trkpt lat="37.7725370" lon="-122.3970660">
+    <ele>3.3</ele>
+    <time>2013-07-19T08:13:04Z</time>
+   </trkpt>
+   <trkpt lat="37.7725100" lon="-122.3970810">
+    <ele>3.3</ele>
+    <time>2013-07-19T08:13:07Z</time>
+   </trkpt>
+   <trkpt lat="37.7725220" lon="-122.3971280">
+    <ele>3.3</ele>
+    <time>2013-07-19T08:13:11Z</time>
+   </trkpt>
+   <trkpt lat="37.7725080" lon="-122.3970830">
+    <ele>3.3</ele>
+    <time>2013-07-19T08:13:14Z</time>
+   </trkpt>
+   <trkpt lat="37.7724830" lon="-122.3970230">
+    <ele>3.3</ele>
+    <time>2013-07-19T08:13:16Z</time>
+   </trkpt>
+   <trkpt lat="37.7724810" lon="-122.3969900">
+    <ele>3.3</ele>
+    <time>2013-07-19T08:13:18Z</time>
+   </trkpt>
+   <trkpt lat="37.7724890" lon="-122.3969970">
+    <ele>3.3</ele>
+    <time>2013-07-19T08:13:22Z</time>
+   </trkpt>
+   <trkpt lat="37.7724960" lon="-122.3970030">
+    <ele>3.3</ele>
+    <time>2013-07-19T08:13:25Z</time>
+   </trkpt>
+   <trkpt lat="37.7725040" lon="-122.3970100">
+    <ele>3.3</ele>
+    <time>2013-07-19T08:13:27Z</time>
+   </trkpt>
+   <trkpt lat="37.7725110" lon="-122.3970170">
+    <ele>3.3</ele>
+    <time>2013-07-19T08:13:31Z</time>
+   </trkpt>
+   <trkpt lat="37.7725210" lon="-122.3970260">
+    <ele>3.3</ele>
+    <time>2013-07-19T08:13:32Z</time>
+   </trkpt>
+   <trkpt lat="37.7724710" lon="-122.3968000">
+    <ele>3.4</ele>
+    <time>2013-07-19T08:13:35Z</time>
+   </trkpt>
+   <trkpt lat="37.7724560" lon="-122.3967660">
+    <ele>3.4</ele>
+    <time>2013-07-19T08:13:38Z</time>
+   </trkpt>
+   <trkpt lat="37.7724140" lon="-122.3967510">
+    <ele>3.4</ele>
+    <time>2013-07-19T08:13:39Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>

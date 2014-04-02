@@ -1,0 +1,24 @@
+{
+    "download_threads": 6,
+    "request": {
+        "activity_ids": [
+            "a3156bd4-62ff-4cdb-925e-9b6c7f167889",
+            "656f9463-9f45-4c08-a573-ac02187b279e",
+            "424e263e-08af-4a02-a134-5d719ce14b55",
+            "e6e29469-0070-485e-9846-b60e1dd207f0",
+            "cf1ce44e-d224-470e-91a7-fac40c760996",
+            "e6eb38f6-fba1-48f9-b3cb-b50e063d9f5f",
+            "08520520-fcdf-416d-8ba8-1bb819baa361",
+            "3f581258-4cc7-4cda-8b31-7f5e02dbb7a9",
+            "c161a08d-f52a-41dd-9dc0-4f03ffa9ac47"
+        ],
+        "auth_token": "663cc6c184b6225e5d182da988c0aa2",
+        "location_options": [],
+        "output_formats": [
+            "tcx",
+            "gpx",
+            "json"
+        ]
+    },
+    "thread_key": -1250952336
+}

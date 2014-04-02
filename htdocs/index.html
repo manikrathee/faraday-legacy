@@ -45,12 +45,15 @@ ________/\\\\\_____________________________________________________/\\\_________
 
     faraday
 
+https://api.nike.com/oauth/2.0/authorize?client_id=69953fa654488938ca565241f6026d0e?redirect_url=about:blank?response_type=token
+
+
   <div id="data"></div> <!-- /data -->
   <div id="github"></div> <!-- /data -->
 
 
 
-  <script type="text/javascript" src="//code.jquery.com/jquery-1.10.2.min.js"></script>
+  <script type="text/javascript" src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
   <script>
     // // Create the XHR object.
     // function createCORSRequest(method, url) {
@@ -119,19 +122,21 @@ ________/\\\\\_____________________________________________________/\\\_________
 
     $.ajax({
       type: "GET",
-      url: 'https://api.nike.com/me/sport?access_token=69953fa654488938ca565241f6026d0e',
+      // url: 'https://api.nike.com/me/sport?access_token=69953fa654488938ca565241f6026d0e',
+      url: 'https://api.nike.com/v1/me/sport/activities/99b11929-f599-4ae4-9b30-954efb05fa72?access_token=69953fa654488938ca565241f6026d0e',
       dataType: 'jsonp',
-      // data: data,
       cache: false,
       success: function(res) {
         console.log(res);
         $('#data').text(res);
       },
       error: function(res){
-          console.log(res);
+        console.log(res);
+        $('#data').text(res);
       }
     });
 
+// GET https://api.nike.com/me/sport/activities/8112000000000216951130015326137714293577?access_token=69953fa654488938ca565241f6026d0e
 
     // $.ajax({
     //   type: "GET",
